@@ -1,0 +1,13 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.app-container {
+  display: flex;
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+}
